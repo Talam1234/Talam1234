@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🙋‍♂️ All about me is at <a href="https://mdtimsalalam.vercel.app/home" target="_blank">My Website</a>
+
 - 🌱 I’m currently studing at Nit Karnataka, Surathkal
 
 <!--
