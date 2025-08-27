@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studing at Nit Karnataka, Surathkal
 
-## My Projects
+## My Hosted Projects
 
 - [code-crona](https://melodious-begonia-db5921.netlify.app/): I made this project during the time of covid-19 pandamic.
 
