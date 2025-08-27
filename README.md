@@ -2,6 +2,7 @@
 
 🙋‍♂️ All about me is at <a href="https://timsal.vercel.app/home" target="_blank">My Website</a>
 
+- 👨‍💻 My name is Md Timsal Alam
 - 🌱 I’m currently studing at Nit Karnataka, Surathkal
 
 ## My Hosted Projects
